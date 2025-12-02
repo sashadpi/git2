@@ -1,2 +1,6 @@
 test string2 stage -> main
+<<<<<<< HEAD
+final test git+
+=======
 final test git+++
+>>>>>>> ca1a6b1ec46ce463703884a94a5b425a16906832
